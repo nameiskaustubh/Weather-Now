@@ -1,3 +1,4 @@
+
 # Weather App
 
 This repository contains the completed internship task assigned to me. The project is a Weather Application developed using **React, Vite, Tailwind CSS, and Material UI (MUI)**. It fetches real-time weather data such as temperature, humidity, wind speed, and overall conditions using the **Meteo API**.
